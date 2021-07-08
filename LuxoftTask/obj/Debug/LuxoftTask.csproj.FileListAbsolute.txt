@@ -1,0 +1,7 @@
+C:\Users\jose.ocampo\Source\Repos\LuxoftTask\LuxoftTask\bin\Debug\LuxoftTask.exe.config
+C:\Users\jose.ocampo\Source\Repos\LuxoftTask\LuxoftTask\bin\Debug\LuxoftTask.exe
+C:\Users\jose.ocampo\Source\Repos\LuxoftTask\LuxoftTask\bin\Debug\LuxoftTask.pdb
+C:\Users\jose.ocampo\Source\Repos\LuxoftTask\LuxoftTask\obj\Debug\LuxoftTask.csproj.AssemblyReference.cache
+C:\Users\jose.ocampo\Source\Repos\LuxoftTask\LuxoftTask\obj\Debug\LuxoftTask.csproj.CoreCompileInputs.cache
+C:\Users\jose.ocampo\Source\Repos\LuxoftTask\LuxoftTask\obj\Debug\LuxoftTask.exe
+C:\Users\jose.ocampo\Source\Repos\LuxoftTask\LuxoftTask\obj\Debug\LuxoftTask.pdb
